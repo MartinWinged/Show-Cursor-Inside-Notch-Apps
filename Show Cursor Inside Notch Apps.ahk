@@ -70,6 +70,3 @@ Loop
 	; Wait 10 milliseconds
 	Sleep, 10
 }
-
-; Clicking ESC button kills the script
-Esc::ExitApp

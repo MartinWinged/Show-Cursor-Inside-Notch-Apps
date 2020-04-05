@@ -4,7 +4,7 @@ Are you? Nope, no more! :D
 
 This script detects active Notch .exe files and displays overlay cursor on top so you can see your mouse as you would see it in Notch Builder.
 
-Run Show Cursor Inside Notch Apps.exe and then run Notch application. Cursor should pop up by itself. To close the script simply press ESC.
+Run Show Cursor Inside Notch Apps.exe and then run Notch application. Cursor should pop up by itself. To close the script just simply check Windows tray - the script icon will be there.
 
 Peace!
 Martin Winged
